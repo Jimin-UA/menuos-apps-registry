@@ -1,0 +1,1 @@
+# menuos-apps-registry
