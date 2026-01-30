@@ -1,0 +1,33 @@
+{
+  "id": "my-app-template",
+  "name": "Мій додаток",
+  "version": "1.0.0",
+  "description": "Шаблон для створення додатків MenuOS",
+  "author": "Ваше ім'я",
+  "license": "MIT",
+  
+  "entry_point": "index.html",
+  "icon": "🔄",
+  "category": "tools",
+  
+  "permissions": [
+    "notifications",
+    "storage",
+    "filesystem.read"
+  ],
+  
+  "dependencies": [],
+  "min_os_version": "1.0",
+  
+  "screenshots": [
+    "screenshot1.png",
+    "screenshot2.png"
+  ],
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/menuos-myapp"
+  },
+  
+  "keywords": ["template", "demo", "example"]
+}
